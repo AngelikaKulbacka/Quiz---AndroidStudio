@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Angelika/Desktop/STUDIA/Quiz-AndroidStudio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.137" />
+        <entry key="..\:/Users/Angelika/Desktop/STUDIA/Quiz-AndroidStudio/app/src/main/res/drawable/category_bg.xml" value="0.186" />
+        <entry key="..\:/Users/Angelika/Desktop/STUDIA/Quiz-AndroidStudio/app/src/main/res/drawable/category_item.xml" value="0.186" />
+        <entry key="..\:/Users/Angelika/Desktop/STUDIA/Quiz-AndroidStudio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.137" />
         <entry key="..\:/Users/Angelika/Desktop/STUDIA/Quiz-AndroidStudio/app/src/main/res/drawable/rounded_corners.xml" value="0.186" />
+        <entry key="..\:/Users/Angelika/Desktop/STUDIA/Quiz-AndroidStudio/app/src/main/res/layout/activity_categories.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Angelika/Desktop/STUDIA/Quiz-AndroidStudio/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Angelika/Desktop/STUDIA/Quiz-AndroidStudio/app/src/main/res/layout/category_item.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
